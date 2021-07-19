@@ -1,0 +1,15 @@
+.custom-info{
+  background-color:pink;
+}
+.categories img{
+  width:100px;
+}
+.custom-button-color{
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  padding:9px 25px;
+  color:white;
+  background-color:#ff4991;
+  border:none;
+  border-radius:8px;
+
+}
